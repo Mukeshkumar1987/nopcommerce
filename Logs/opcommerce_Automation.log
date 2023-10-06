@@ -1,0 +1,1807 @@
+ 2023-05-28 01:29:32,336 : INFO : Test_Customer : test_addcust : 20 :  test 003 is staretd
+ 2023-05-28 01:29:32,337 : INFO : Test_Customer : test_addcust : 21 : Opening Browser
+ 2023-05-28 01:30:47,683 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 01:30:47,684 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 01:31:32,828 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 01:31:32,828 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 01:31:37,561 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 01:31:37,664 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 01:31:37,698 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 01:31:39,989 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 01:31:42,263 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 01:31:43,150 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 01:31:44,295 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 01:31:44,431 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 01:31:44,447 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 01:31:44,465 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 01:31:44,475 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 01:31:45,197 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 01:31:45,241 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 01:31:45,524 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 01:31:46,295 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 01:46:23,626 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 01:46:23,627 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 01:46:27,639 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 01:46:27,767 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 01:46:27,817 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 01:46:30,532 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 01:46:32,766 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 01:46:33,761 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 01:46:36,269 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 01:46:36,340 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 01:46:36,369 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 01:46:36,378 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 01:46:36,397 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 01:46:37,121 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 01:46:37,146 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 01:46:37,401 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 01:46:38,520 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:29:00,426 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:29:00,427 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:29:04,881 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:29:04,991 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:29:05,023 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:29:06,861 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:29:09,090 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:29:09,916 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:29:10,721 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:30:04,613 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:30:04,614 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:30:08,104 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:30:08,186 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:30:08,218 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:30:10,098 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:30:12,328 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:30:13,194 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:30:14,015 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:30:14,081 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 09:30:14,132 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 09:30:14,148 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 09:30:14,160 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 09:30:14,881 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 09:30:14,912 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 09:30:15,170 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 09:30:16,235 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:42:40,581 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:42:40,581 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:42:43,930 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:42:44,024 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:42:44,071 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:42:47,016 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:42:49,253 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:42:52,199 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:42:58,843 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:42:58,941 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 09:42:58,985 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 09:42:58,999 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 09:42:59,011 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 09:42:59,722 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 09:42:59,746 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 09:42:59,988 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 09:43:00,711 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:44:42,374 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:44:42,374 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:44:45,882 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:44:45,994 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:44:46,031 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:44:50,963 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:44:53,220 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:44:55,617 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:44:58,512 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:44:58,605 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 09:44:58,649 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 09:44:58,662 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 09:44:58,672 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 09:44:59,393 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 09:44:59,420 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 09:44:59,670 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 09:45:00,410 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:46:08,595 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:46:08,595 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:46:11,873 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:46:11,965 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:46:12,017 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:46:14,460 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:46:16,701 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:46:19,229 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:46:24,396 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:46:24,501 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 09:46:24,539 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 09:46:24,555 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 09:46:24,567 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 09:46:25,284 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 09:46:25,317 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 09:46:25,573 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 09:46:26,260 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:49:10,828 : INFO : Test_Customer : test_AddCust003 : 20 :  test 003 is staretd
+ 2023-05-28 09:49:10,828 : INFO : Test_Customer : test_AddCust003 : 21 : Opening Browser
+ 2023-05-28 09:49:15,267 : INFO : Test_Customer : test_AddCust003 : 23 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:49:15,369 : INFO : Test_Customer : test_AddCust003 : 26 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:49:15,404 : INFO : Test_Customer : test_AddCust003 : 28 : Entering the Passwordadmin
+ 2023-05-28 09:49:17,161 : INFO : Test_Customer : test_AddCust003 : 30 : click the login Button
+ 2023-05-28 09:49:19,413 : INFO : Test_Customer : test_AddCust003 : 33 : Click the Customer Buttion
+ 2023-05-28 09:49:20,233 : INFO : Test_Customer : test_AddCust003 : 36 : click inside button
+ 2023-05-28 09:49:22,203 : INFO : Test_Customer : test_AddCust003 : 39 : click new add
+ 2023-05-28 09:49:22,280 : INFO : Test_Customer : test_AddCust003 : 42 : click the new Email
+ 2023-05-28 09:49:22,313 : INFO : Test_Customer : test_AddCust003 : 44 : Click the new Password
+ 2023-05-28 09:49:22,332 : INFO : Test_Customer : test_AddCust003 : 47 : click the first name
+ 2023-05-28 09:49:22,354 : INFO : Test_Customer : test_AddCust003 : 49 : click the last name
+ 2023-05-28 09:49:22,575 : INFO : Test_Customer : test_AddCust003 : 51 : Enter the Gender
+ 2023-05-28 09:49:22,623 : INFO : Test_Customer : test_AddCust003 : 53 : Enter the DOB
+ 2023-05-28 09:49:22,876 : INFO : Test_Customer : test_AddCust003 : 55 : Click the Calender
+ 2023-05-28 09:49:23,565 : INFO : Test_Customer : test_AddCust003 : 57 : click the save
+ 2023-05-28 09:51:49,236 : INFO : Test_Customer : test_AddCust003 : 14 :  test 003 is staretd
+ 2023-05-28 09:51:49,236 : INFO : Test_Customer : test_AddCust003 : 15 : Opening Browser
+ 2023-05-28 09:51:52,812 : INFO : Test_Customer : test_AddCust003 : 17 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:51:52,908 : INFO : Test_Customer : test_AddCust003 : 20 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:51:52,939 : INFO : Test_Customer : test_AddCust003 : 22 : Entering the Passwordadmin
+ 2023-05-28 09:51:56,329 : INFO : Test_Customer : test_AddCust003 : 24 : click the login Button
+ 2023-05-28 09:51:58,567 : INFO : Test_Customer : test_AddCust003 : 27 : Click the Customer Buttion
+ 2023-05-28 09:52:00,213 : INFO : Test_Customer : test_AddCust003 : 30 : click inside button
+ 2023-05-28 09:52:02,105 : INFO : Test_Customer : test_AddCust003 : 33 : click new add
+ 2023-05-28 09:52:02,151 : INFO : Test_Customer : test_AddCust003 : 36 : click the new Email
+ 2023-05-28 09:52:02,199 : INFO : Test_Customer : test_AddCust003 : 38 : Click the new Password
+ 2023-05-28 09:52:02,222 : INFO : Test_Customer : test_AddCust003 : 41 : click the first name
+ 2023-05-28 09:52:02,247 : INFO : Test_Customer : test_AddCust003 : 43 : click the last name
+ 2023-05-28 09:52:02,475 : INFO : Test_Customer : test_AddCust003 : 45 : Enter the Gender
+ 2023-05-28 09:52:02,503 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the DOB
+ 2023-05-28 09:52:02,743 : INFO : Test_Customer : test_AddCust003 : 49 : Click the Calender
+ 2023-05-28 09:52:03,725 : INFO : Test_Customer : test_AddCust003 : 51 : click the save
+ 2023-05-28 09:53:27,835 : INFO : Test_Customer : test_AddCust003 : 14 :  test 003 is staretd
+ 2023-05-28 09:53:27,835 : INFO : Test_Customer : test_AddCust003 : 15 : Opening Browser
+ 2023-05-28 09:53:31,286 : INFO : Test_Customer : test_AddCust003 : 17 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:53:31,382 : INFO : Test_Customer : test_AddCust003 : 20 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:53:31,430 : INFO : Test_Customer : test_AddCust003 : 22 : Entering the Passwordadmin
+ 2023-05-28 09:53:33,218 : INFO : Test_Customer : test_AddCust003 : 24 : click the login Button
+ 2023-05-28 09:53:35,480 : INFO : Test_Customer : test_AddCust003 : 27 : Click the Customer Buttion
+ 2023-05-28 09:53:36,297 : INFO : Test_Customer : test_AddCust003 : 30 : click inside button
+ 2023-05-28 09:53:37,294 : INFO : Test_Customer : test_AddCust003 : 33 : click new add
+ 2023-05-28 09:53:37,422 : INFO : Test_Customer : test_AddCust003 : 36 : click the new Email
+ 2023-05-28 09:53:37,581 : INFO : Test_Customer : test_AddCust003 : 38 : Click the new Password
+ 2023-05-28 09:53:37,625 : INFO : Test_Customer : test_AddCust003 : 41 : click the first name
+ 2023-05-28 09:53:37,677 : INFO : Test_Customer : test_AddCust003 : 43 : click the last name
+ 2023-05-28 09:53:38,401 : INFO : Test_Customer : test_AddCust003 : 45 : Enter the Gender
+ 2023-05-28 09:53:38,436 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the DOB
+ 2023-05-28 09:53:38,713 : INFO : Test_Customer : test_AddCust003 : 49 : Click the Calender
+ 2023-05-28 09:53:39,536 : INFO : Test_Customer : test_AddCust003 : 51 : click the save
+ 2023-05-28 09:55:05,691 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 09:55:05,691 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 09:55:10,256 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:55:10,387 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:55:10,465 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 09:55:14,140 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 09:55:16,378 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 09:55:17,280 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 09:55:18,388 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 09:55:18,476 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 09:55:18,554 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 09:55:18,577 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 09:55:18,597 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 09:55:19,313 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 09:55:19,345 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 09:55:19,640 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 09:55:20,401 : INFO : Test_Customer : test_AddCust003 : 53 : click the save
+ 2023-05-28 09:56:17,684 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 09:56:17,695 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 09:56:20,538 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:56:20,677 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:56:20,725 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 09:56:22,583 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 09:56:24,828 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 09:56:25,812 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 09:56:26,858 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 09:56:26,953 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 09:56:27,036 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 09:56:27,051 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 09:56:27,061 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 09:56:27,780 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 09:56:27,813 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 09:56:28,167 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 09:56:29,150 : INFO : Test_Customer : test_AddCust003 : 53 : click the save
+ 2023-05-28 09:57:38,852 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 09:57:38,853 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 09:57:42,469 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:57:42,582 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:57:42,614 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 09:57:44,585 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 09:57:46,817 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 09:57:47,641 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 09:57:48,660 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 09:57:48,852 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 09:57:48,928 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 09:57:48,952 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 09:57:48,968 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 09:57:49,684 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 09:57:49,730 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 09:57:50,018 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 09:57:52,804 : INFO : Test_Customer : test_AddCust003 : 53 : click the save
+ 2023-05-28 09:59:23,007 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 09:59:23,008 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 09:59:26,507 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 09:59:26,598 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 09:59:26,647 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 09:59:30,058 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 09:59:32,297 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 09:59:33,363 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 09:59:34,316 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 09:59:34,463 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 09:59:34,512 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 09:59:34,528 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 09:59:34,548 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 09:59:35,269 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 09:59:35,303 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 09:59:35,569 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 09:59:40,420 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 10:00:31,080 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 10:00:31,081 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 10:00:35,831 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 10:00:36,020 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 10:00:36,083 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 10:00:39,514 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 10:00:41,757 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 10:00:42,635 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 10:00:43,587 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 10:00:43,683 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 10:00:43,727 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 10:00:43,738 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 10:00:43,743 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 10:00:44,475 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 10:00:44,509 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 10:00:44,775 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 10:00:47,891 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 10:03:46,642 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 10:03:46,643 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 10:03:50,234 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 10:03:50,331 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 10:03:50,367 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 10:03:52,147 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 10:03:54,388 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 10:03:55,249 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 10:03:56,240 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 10:03:56,330 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 10:03:56,388 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 10:03:56,397 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 10:03:56,414 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 10:03:57,133 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 10:03:57,192 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 10:03:57,446 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 10:04:00,527 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 10:06:36,249 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 10:06:36,252 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 10:06:40,008 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 10:06:40,149 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 10:06:40,196 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 10:06:42,075 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 10:06:44,321 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 10:06:45,224 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 10:06:46,325 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 10:06:46,444 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 10:06:48,508 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 10:06:48,537 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 10:06:48,585 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 10:06:48,825 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 10:06:48,853 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 10:06:49,119 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 10:06:51,945 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 10:07:47,716 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 10:07:47,716 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 10:07:51,363 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 10:07:51,468 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 10:07:51,505 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 10:07:53,251 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 10:07:55,484 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 10:07:56,321 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 10:07:57,195 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 10:07:57,308 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 10:07:59,330 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 10:07:59,359 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 10:07:59,399 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 10:07:59,629 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 10:07:59,659 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 10:07:59,911 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 10:08:02,673 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 10:09:36,602 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 10:09:36,602 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 10:09:40,451 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 10:09:40,579 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 10:09:40,624 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 10:09:42,470 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 10:09:44,715 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 10:09:45,683 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 10:09:47,050 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 10:09:47,147 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 10:09:49,170 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 10:09:49,205 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 10:09:49,253 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 10:09:49,493 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 10:09:49,518 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 10:09:49,780 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 10:09:52,612 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 11:26:10,793 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 11:26:10,793 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 11:26:16,472 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 11:26:16,611 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 11:26:16,665 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 11:26:19,347 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 11:26:21,391 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 11:35:06,880 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-05-28 11:35:06,880 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-05-28 11:35:10,458 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 11:35:10,608 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-05-28 11:35:10,712 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-05-28 11:35:14,014 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-05-28 11:35:16,081 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-05-28 11:35:17,912 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-05-28 11:35:19,301 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-05-28 11:35:19,414 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-05-28 11:35:21,506 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-05-28 11:35:21,593 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-05-28 11:35:21,663 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-05-28 11:35:21,715 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-05-28 11:35:21,798 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-05-28 11:35:21,889 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-05-28 11:35:25,683 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-05-28 15:17:43,383 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-28 15:17:43,383 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-28 15:17:47,525 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 15:17:47,614 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:17:47,614 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:17:47,664 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-28 15:17:47,664 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-28 15:17:49,748 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-28 15:17:53,382 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-05-28 15:17:53,382 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-05-28 15:17:59,171 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-28 15:17:59,171 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-28 15:18:02,918 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 15:18:03,017 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-05-28 15:18:03,017 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:18:03,052 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-28 15:18:03,052 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-28 15:18:03,603 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-28 15:18:03,608 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-28 15:18:09,642 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-28 15:18:09,642 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-28 15:18:13,072 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 15:18:13,181 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:18:13,182 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:18:13,223 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-05-28 15:18:13,223 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-28 15:18:13,740 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-28 15:18:13,746 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-28 15:18:19,721 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-28 15:18:19,721 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-28 15:18:21,636 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-28 15:18:21,731 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-05-28 15:18:21,731 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-28 15:18:21,800 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-05-28 15:18:21,801 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-28 15:18:22,297 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-28 15:18:22,301 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-29 13:13:23,819 : INFO : Test_Customer_DDT : test_AddCust_ddt : 22 :  test 003 is staretd
+ 2023-05-29 13:13:23,820 : INFO : Test_Customer_DDT : test_AddCust_ddt : 23 : Opening Browser
+ 2023-05-29 13:13:28,632 : INFO : Test_Customer_DDT : test_AddCust_ddt : 25 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:13:28,724 : INFO : Test_Customer_DDT : test_AddCust_ddt : 28 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:13:28,752 : INFO : Test_Customer_DDT : test_AddCust_ddt : 30 : Entering the Passwordadmin
+ 2023-05-29 13:13:31,526 : INFO : Test_Customer_DDT : test_AddCust_ddt : 32 : click the login Button
+ 2023-05-29 13:14:39,496 : INFO : Test_Customer_DDT : test_AddCust_ddt : 23 :  test 003 is staretd
+ 2023-05-29 13:14:39,497 : INFO : Test_Customer_DDT : test_AddCust_ddt : 24 : Opening Browser
+ 2023-05-29 13:14:43,443 : INFO : Test_Customer_DDT : test_AddCust_ddt : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:14:43,537 : INFO : Test_Customer_DDT : test_AddCust_ddt : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:14:43,576 : INFO : Test_Customer_DDT : test_AddCust_ddt : 31 : Entering the Passwordadmin
+ 2023-05-29 13:14:46,693 : INFO : Test_Customer_DDT : test_AddCust_ddt : 33 : click the login Button
+ 2023-05-29 13:16:35,781 : INFO : Test_Customer_DDT : test_AddCust_ddt : 23 :  test 003 is staretd
+ 2023-05-29 13:16:35,782 : INFO : Test_Customer_DDT : test_AddCust_ddt : 24 : Opening Browser
+ 2023-05-29 13:16:40,488 : INFO : Test_Customer_DDT : test_AddCust_ddt : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:16:40,566 : INFO : Test_Customer_DDT : test_AddCust_ddt : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:16:40,600 : INFO : Test_Customer_DDT : test_AddCust_ddt : 31 : Entering the Passwordadmin
+ 2023-05-29 13:16:46,468 : INFO : Test_Customer_DDT : test_AddCust_ddt : 33 : click the login Button
+ 2023-05-29 13:20:19,697 : INFO : Test_Customer_DDT : test_AddCust_ddt : 23 :  test 003 is staretd
+ 2023-05-29 13:20:19,697 : INFO : Test_Customer_DDT : test_AddCust_ddt : 24 : Opening Browser
+ 2023-05-29 13:20:24,731 : INFO : Test_Customer_DDT : test_AddCust_ddt : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:20:24,829 : INFO : Test_Customer_DDT : test_AddCust_ddt : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:20:24,870 : INFO : Test_Customer_DDT : test_AddCust_ddt : 31 : Entering the Passwordadmin
+ 2023-05-29 13:20:26,987 : INFO : Test_Customer_DDT : test_AddCust_ddt : 33 : click the login Button
+ 2023-05-29 13:21:34,717 : INFO : Test_Customer_DDT : test_AddCust_ddt : 23 :  test 003 is staretd
+ 2023-05-29 13:21:34,717 : INFO : Test_Customer_DDT : test_AddCust_ddt : 24 : Opening Browser
+ 2023-05-29 13:21:38,557 : INFO : Test_Customer_DDT : test_AddCust_ddt : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:21:38,699 : INFO : Test_Customer_DDT : test_AddCust_ddt : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:21:38,731 : INFO : Test_Customer_DDT : test_AddCust_ddt : 31 : Entering the Passwordadmin
+ 2023-05-29 13:21:41,292 : INFO : Test_Customer_DDT : test_AddCust_ddt : 33 : click the login Button
+ 2023-05-29 13:23:28,910 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 13:23:28,911 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 13:23:33,877 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:23:34,016 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:23:34,069 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 13:23:39,908 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 13:28:32,784 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 13:28:32,785 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 13:28:37,463 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:28:37,587 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:28:37,628 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 13:28:39,597 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 13:31:45,836 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 13:31:45,837 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 13:31:50,714 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:31:50,909 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:31:50,948 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 13:31:53,509 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 13:32:24,943 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 13:32:24,945 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 13:32:28,737 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:32:28,893 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:32:28,942 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 13:32:32,624 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 13:33:36,469 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 13:33:36,516 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 13:33:42,362 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 13:33:42,481 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 13:33:42,558 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 13:33:44,584 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:46:29,866 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 14:46:29,867 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 14:46:34,495 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 14:46:34,616 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 14:46:34,682 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 14:46:36,992 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:50:22,063 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 14:50:22,064 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 14:50:27,404 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 14:50:27,532 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 14:50:27,582 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 14:50:31,558 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:52:06,817 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 14:52:06,817 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 14:52:10,887 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 14:52:10,983 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 14:52:11,031 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 14:52:14,371 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:52:18,664 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 41 : Click the Customer Buttion
+ 2023-05-29 14:52:19,918 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 44 : click inside button
+ 2023-05-29 14:52:22,390 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 47 : click new add
+ 2023-05-29 14:53:41,529 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 14:53:41,530 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 14:53:45,651 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 14:53:45,735 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 14:53:45,767 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 14:53:49,007 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:53:53,278 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 14:53:55,595 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 14:53:58,473 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 14:56:22,847 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 14:56:22,847 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 14:56:26,514 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 14:56:26,624 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 14:56:26,682 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 14:56:29,352 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 14:56:33,622 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 14:56:36,013 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 14:56:42,736 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 15:10:05,396 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 15:10:05,396 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 15:10:09,006 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 15:10:09,108 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 15:10:09,135 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 15:10:11,900 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 15:10:16,161 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 15:10:17,251 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 15:10:18,502 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 15:22:17,430 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 15:22:17,431 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 15:22:22,120 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 15:22:22,212 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 15:22:22,246 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 15:22:26,367 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 15:22:30,637 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 15:22:31,631 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 15:22:32,721 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 15:26:15,950 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 15:26:15,950 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 15:26:19,067 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 15:26:59,319 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 15:26:59,320 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 15:27:02,104 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 15:27:02,215 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 15:27:02,259 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 15:27:04,598 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 15:27:08,857 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 15:27:09,774 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 15:27:10,935 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 15:31:40,336 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 15:31:40,337 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 15:31:44,205 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 15:31:44,362 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 15:31:44,409 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 15:31:48,163 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 15:31:52,420 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 15:31:53,333 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 15:31:54,450 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-29 17:23:38,733 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-05-29 17:23:38,733 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-05-29 17:23:42,884 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-05-29 17:23:42,979 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-05-29 17:23:43,012 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-05-29 17:23:44,946 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-05-29 17:23:49,201 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-05-29 17:23:50,065 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-05-29 17:23:50,955 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-05-31 16:38:17,369 : INFO : Test_Login : test_login002 : 26 : test login 02 is stared
+ 2023-05-31 16:38:17,369 : INFO : Test_Login : test_login002 : 27 : opening Browser
+ 2023-05-31 16:38:21,229 : INFO : Test_Login : test_login002 : 29 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:38:21,319 : INFO : Test_Login : test_login002 : 32 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:38:21,382 : INFO : Test_Login : test_login002 : 34 : Entering Password-->admin
+ 2023-05-31 16:38:24,428 : INFO : Test_Login : test_login002 : 36 : click on login Button
+ 2023-05-31 16:38:58,085 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:38:58,085 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:39:01,991 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:39:02,086 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:02,086 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:02,133 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-31 16:39:02,133 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:39:05,566 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:39:09,335 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-05-31 16:39:09,339 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-05-31 16:39:15,014 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:39:15,014 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:39:18,106 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:39:18,176 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-05-31 16:39:18,176 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:18,208 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-31 16:39:18,208 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:39:18,940 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:39:18,944 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-31 16:39:24,835 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:39:24,835 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:39:28,710 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:39:28,806 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:28,806 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:28,835 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-05-31 16:39:28,835 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:39:29,307 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:39:29,311 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-31 16:39:35,232 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:39:35,232 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:39:38,640 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:39:38,767 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-05-31 16:39:38,767 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:39:38,814 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-05-31 16:39:38,814 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:39:39,319 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:39:39,334 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-31 16:50:15,780 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:50:15,781 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:50:19,462 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:50:19,555 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:19,555 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:19,584 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-31 16:50:19,584 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:50:21,932 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:50:25,696 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-05-31 16:50:25,696 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-05-31 16:50:31,436 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:50:31,436 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:50:34,755 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:50:34,860 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-05-31 16:50:34,860 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:34,901 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-05-31 16:50:34,901 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:50:35,444 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:50:35,448 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-31 16:50:42,323 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:50:42,323 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:50:46,209 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:50:46,473 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:46,473 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:46,551 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-05-31 16:50:46,551 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:50:47,148 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:50:47,148 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-05-31 16:50:54,587 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-05-31 16:50:54,587 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-05-31 16:50:57,818 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-05-31 16:50:57,986 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-05-31 16:50:57,986 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-05-31 16:50:58,058 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-05-31 16:50:58,058 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-05-31 16:50:59,168 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-05-31 16:50:59,168 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-01 19:32:50,578 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:32:50,578 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:32:56,927 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:35:02,716 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:35:02,717 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:35:06,186 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:38:26,971 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:38:26,972 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:38:35,750 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:39:54,133 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:39:54,133 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:39:59,843 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:45:22,616 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:45:22,617 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:45:27,720 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:46:34,080 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:46:34,081 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:46:38,175 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:47:47,892 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:47:47,893 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:47:51,866 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:48:55,531 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:48:55,532 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:48:59,958 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:51:00,739 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:51:00,743 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:51:07,057 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:52:09,993 : INFO : Test_loginDDT : test_login004ddt : 18 : test login ddt 004 is started
+ 2023-06-01 19:52:09,998 : INFO : Test_loginDDT : test_login004ddt : 19 : Opening Browser
+ 2023-06-01 19:52:14,834 : INFO : Test_loginDDT : test_login004ddt : 21 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:53:02,949 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-01 19:53:02,949 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-01 19:53:07,153 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-01 19:54:46,603 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-01 19:54:46,603 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-01 23:03:14,959 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-01 23:03:14,960 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 00:13:33,730 : INFO : Test_loginDDT : test_login_ddt002 : 196 : test is starterd login ddt
+ 2023-06-02 00:13:33,731 : INFO : Test_loginDDT : test_login_ddt002 : 197 : Opening browser
+ 2023-06-02 00:14:48,135 : INFO : Test_loginDDT : test_login_ddt002 : 199 : Go to this url -->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 00:31:41,914 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-02 00:31:41,915 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 00:31:48,372 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 00:34:08,514 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-02 00:34:08,514 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 00:35:32,832 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 08:49:31,502 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-02 08:49:31,502 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 08:49:36,371 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:18:14,015 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:18:14,015 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:18:19,732 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:18:20,475 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:18:20,493 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:18:21,995 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:18:22,704 : INFO : Test_Login_Params : test_login_params_004 : 42 : Click on Menu button
+ 2023-06-02 09:18:25,324 : INFO : Test_Login_Params : test_login_params_004 : 44 : Click on logout button
+ 2023-06-02 09:18:25,324 : INFO : Test_Login_Params : test_login_params_004 : 45 : test_login_002 is Passed
+ 2023-06-02 09:18:26,514 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:18:32,452 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:18:32,452 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:18:38,696 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:18:39,311 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:18:39,332 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:18:40,996 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:18:51,706 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:18:57,604 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:18:57,604 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:19:04,427 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:19:05,260 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:19:05,276 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:19:06,885 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:19:17,705 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:19:23,538 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:19:23,538 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:19:27,821 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:19:28,240 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:19:28,259 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:19:32,001 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:19:42,737 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:23:10,335 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:23:10,335 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:23:17,158 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:23:17,859 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:23:17,887 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:23:19,526 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:23:20,265 : INFO : Test_Login_Params : test_login_params_004 : 42 : Click on Menu button
+ 2023-06-02 09:23:23,419 : INFO : Test_Login_Params : test_login_params_004 : 44 : Click on logout button
+ 2023-06-02 09:23:23,419 : INFO : Test_Login_Params : test_login_params_004 : 45 : test_login_002 is Passed
+ 2023-06-02 09:23:24,429 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:23:31,033 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:23:31,033 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:23:42,228 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:23:43,171 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:23:43,187 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:23:45,279 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:23:45,281 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 09:23:51,791 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:23:51,791 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:25:19,543 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:25:28,804 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:25:28,835 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:25:30,618 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:25:30,618 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 09:25:36,614 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:25:36,614 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:25:44,705 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:25:45,599 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:25:45,610 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:25:47,275 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:25:47,278 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 09:31:42,539 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:31:42,540 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:31:49,736 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:31:50,417 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:31:50,433 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:31:52,098 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:31:52,111 : INFO : Test_Login_Params : test_login_params_004 : 56 : test_login_002 is Failed
+ 2023-06-02 09:31:58,863 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:31:58,863 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:32:07,703 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:32:08,446 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:32:08,470 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:32:09,989 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:32:10,804 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:32:16,431 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:32:16,431 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:32:30,307 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:32:31,270 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:32:31,286 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:32:34,368 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:32:35,293 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:32:41,134 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:32:41,134 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:32:45,448 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:32:45,899 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:32:45,921 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:32:47,469 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:32:48,420 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:38:13,236 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:38:13,236 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:39:55,670 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:40:01,065 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:40:01,075 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:40:02,903 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:40:03,578 : INFO : Test_Login_Params : test_login_params_004 : 42 : Click on Menu button
+ 2023-06-02 09:40:05,020 : INFO : Test_Login_Params : test_login_params_004 : 44 : Click on logout button
+ 2023-06-02 09:40:05,020 : INFO : Test_Login_Params : test_login_params_004 : 45 : test_login_002 is Passed
+ 2023-06-02 09:40:07,877 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 09:40:13,952 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:40:13,952 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:40:19,317 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:40:19,884 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:40:19,900 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 09:40:21,784 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:40:21,799 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 09:40:28,899 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:40:28,899 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:41:48,034 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:41:56,150 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 09:41:56,151 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:41:58,920 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:41:58,920 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 09:42:04,526 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 09:42:04,526 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 09:42:11,776 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 09:42:12,441 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 09:42:12,461 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 09:42:13,865 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 09:42:13,872 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 14:09:02,720 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:09:02,721 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:09:12,966 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:09:13,471 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 14:09:13,494 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 14:09:15,006 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:09:15,624 : INFO : Test_Login_Params : test_login_params_004 : 42 : Click on Menu button
+ 2023-06-02 14:09:17,065 : INFO : Test_Login_Params : test_login_params_004 : 44 : Click on logout button
+ 2023-06-02 14:09:17,065 : INFO : Test_Login_Params : test_login_params_004 : 45 : test_login_002 is Passed
+ 2023-06-02 14:09:17,923 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 14:09:23,767 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:09:23,767 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:09:28,148 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:09:28,706 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 14:09:28,723 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 14:09:30,723 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:09:30,725 : INFO : Test_Login_Params : test_login_params_004 : 48 : test_login_002 is Failed
+ 2023-06-02 14:09:36,490 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:09:36,490 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:12:45,583 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:12:45,583 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:13:24,252 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:13:25,305 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 14:13:25,324 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 14:13:27,408 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:13:28,063 : INFO : Test_Login_Params : test_login_params_004 : 42 : Click on Menu button
+ 2023-06-02 14:13:29,844 : INFO : Test_Login_Params : test_login_params_004 : 44 : Click on logout button
+ 2023-06-02 14:13:29,845 : INFO : Test_Login_Params : test_login_params_004 : 45 : test_login_002 is Passed
+ 2023-06-02 14:13:30,986 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 14:13:36,691 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:13:36,691 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:13:42,283 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:13:42,887 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 14:13:42,905 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin123
+ 2023-06-02 14:13:44,451 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:13:55,197 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 14:14:01,012 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:14:01,013 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:14:06,844 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:14:07,509 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin
+ 2023-06-02 14:14:07,526 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 14:14:12,800 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:14:23,573 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 14:14:30,156 : INFO : Test_Login_Params : test_login_params_004 : 26 : test_login_params_004 is started
+ 2023-06-02 14:14:30,156 : INFO : Test_Login_Params : test_login_params_004 : 27 : Opening Browser
+ 2023-06-02 14:14:37,403 : INFO : Test_Login_Params : test_login_params_004 : 29 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:14:38,217 : INFO : Test_Login_Params : test_login_params_004 : 32 : Entering username-->Admin1
+ 2023-06-02 14:14:38,253 : INFO : Test_Login_Params : test_login_params_004 : 34 : Entering password-->admin1231
+ 2023-06-02 14:14:39,698 : INFO : Test_Login_Params : test_login_params_004 : 36 : Click on login button
+ 2023-06-02 14:14:50,527 : INFO : Test_Login_Params : test_login_params_004 : 62 : test_login_002 is Completed
+ 2023-06-02 14:20:46,409 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-02 14:20:46,409 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 14:20:56,423 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:27:59,166 : INFO : Test_loginDDT : test_login004ddt : 20 : test login ddt 004 is started
+ 2023-06-02 14:27:59,167 : INFO : Test_loginDDT : test_login004ddt : 21 : Opening Browser
+ 2023-06-02 14:28:07,092 : INFO : Test_loginDDT : test_login004ddt : 23 : GO to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:40:35,885 : INFO : Test_Login_DDT : test_login_ddt_006 : 21 : test_login_ddt_006 is started
+ 2023-06-02 14:40:35,886 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : Opening Browser
+ 2023-06-02 14:41:07,747 : INFO : Test_Login_DDT : test_login_ddt_006 : 21 : test_login_ddt_006 is started
+ 2023-06-02 14:41:07,748 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : Opening Browser
+ 2023-06-02 14:41:13,131 : INFO : Test_Login_DDT : test_login_ddt_006 : 24 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:44:33,217 : INFO : Test_Login_DDT : test_login_ddt_006 : 21 : test_login_ddt_006 is started
+ 2023-06-02 14:44:33,217 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : Opening Browser
+ 2023-06-02 14:44:40,218 : INFO : Test_Login_DDT : test_login_ddt_006 : 24 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:44:40,861 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin
+ 2023-06-02 14:44:40,888 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin123
+ 2023-06-02 14:44:42,748 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:44:43,780 : INFO : Test_Login_DDT : test_login_ddt_006 : 45 : Click on Menu button
+ 2023-06-02 14:44:45,482 : INFO : Test_Login_DDT : test_login_ddt_006 : 47 : Click on logout button
+ 2023-06-02 14:44:45,973 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin1
+ 2023-06-02 14:44:45,993 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin123
+ 2023-06-02 14:44:47,467 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:44:57,630 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin
+ 2023-06-02 14:44:57,650 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin1231
+ 2023-06-02 14:44:59,092 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:45:09,266 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin1
+ 2023-06-02 14:45:09,287 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin1231
+ 2023-06-02 14:45:10,657 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:45:20,740 : INFO : Test_Login_DDT : test_login_ddt_006 : 64 : test_login_ddt_006 is Failed
+ 2023-06-02 14:46:55,240 : INFO : Test_Login_DDT : test_login_ddt_006 : 21 : test_login_ddt_006 is started
+ 2023-06-02 14:46:55,241 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : Opening Browser
+ 2023-06-02 14:47:03,948 : INFO : Test_Login_DDT : test_login_ddt_006 : 24 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:47:04,627 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin
+ 2023-06-02 14:47:04,651 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin123
+ 2023-06-02 14:47:06,193 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:47:06,829 : INFO : Test_Login_DDT : test_login_ddt_006 : 45 : Click on Menu button
+ 2023-06-02 14:47:08,247 : INFO : Test_Login_DDT : test_login_ddt_006 : 47 : Click on logout button
+ 2023-06-02 14:47:08,621 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin1
+ 2023-06-02 14:47:08,639 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin123
+ 2023-06-02 14:47:09,891 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:47:19,983 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin
+ 2023-06-02 14:47:19,999 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin1231
+ 2023-06-02 14:47:21,576 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:47:31,671 : INFO : Test_Login_DDT : test_login_ddt_006 : 34 : Entering username-->Admin1
+ 2023-06-02 14:47:31,690 : INFO : Test_Login_DDT : test_login_ddt_006 : 36 : Entering password-->admin1231
+ 2023-06-02 14:47:32,988 : INFO : Test_Login_DDT : test_login_ddt_006 : 38 : Click on login button
+ 2023-06-02 14:47:43,040 : INFO : Test_Login_DDT : test_login_ddt_006 : 64 : test_login_ddt_006 is Failed
+ 2023-06-02 14:50:05,338 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : test_login_ddt_006 is started
+ 2023-06-02 14:50:05,339 : INFO : Test_Login_DDT : test_login_ddt_006 : 23 : Opening Browser
+ 2023-06-02 14:52:56,850 : INFO : Test_Login_DDT : test_login_ddt_006 : 25 : Go to this url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-02 14:53:00,450 : INFO : Test_Login_DDT : test_login_ddt_006 : 35 : Entering username-->Admin
+ 2023-06-02 14:53:00,468 : INFO : Test_Login_DDT : test_login_ddt_006 : 37 : Entering password-->admin123
+ 2023-06-02 14:53:02,482 : INFO : Test_Login_DDT : test_login_ddt_006 : 39 : Click on login button
+ 2023-06-02 14:53:03,109 : INFO : Test_Login_DDT : test_login_ddt_006 : 46 : Click on Menu button
+ 2023-06-02 14:53:06,029 : INFO : Test_Login_DDT : test_login_ddt_006 : 49 : Click on logout button
+ 2023-06-02 14:53:06,538 : INFO : Test_Login_DDT : test_login_ddt_006 : 35 : Entering username-->Admin1
+ 2023-06-02 14:53:06,553 : INFO : Test_Login_DDT : test_login_ddt_006 : 37 : Entering password-->admin123
+ 2023-06-02 14:53:07,977 : INFO : Test_Login_DDT : test_login_ddt_006 : 39 : Click on login button
+ 2023-06-02 14:53:18,104 : INFO : Test_Login_DDT : test_login_ddt_006 : 35 : Entering username-->Admin
+ 2023-06-02 14:53:18,144 : INFO : Test_Login_DDT : test_login_ddt_006 : 37 : Entering password-->admin1231
+ 2023-06-02 14:53:19,568 : INFO : Test_Login_DDT : test_login_ddt_006 : 39 : Click on login button
+ 2023-06-02 14:53:29,661 : INFO : Test_Login_DDT : test_login_ddt_006 : 35 : Entering username-->Admin1
+ 2023-06-02 14:53:29,679 : INFO : Test_Login_DDT : test_login_ddt_006 : 37 : Entering password-->admin1231
+ 2023-06-02 14:53:31,157 : INFO : Test_Login_DDT : test_login_ddt_006 : 39 : Click on login button
+ 2023-06-02 14:53:41,234 : INFO : Test_Login_DDT : test_login_ddt_006 : 66 : test_login_ddt_006 is Failed
+ 2023-06-02 14:54:38,782 : INFO : Test_Login_DDT : test_login_ddt_006 : 22 : test_login_ddt_006 is started
+ 2023-06-02 14:54:38,783 : INFO : Test_Login_DDT : test_login_ddt_006 : 23 : Opening Browser
+ 2023-06-08 14:28:51,394 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-08 14:28:51,394 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-08 14:28:54,988 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-08 14:28:55,278 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:28:55,278 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:28:55,388 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-08 14:28:55,388 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-08 14:28:58,389 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-08 14:29:03,007 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-06-08 14:29:03,007 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-06-08 14:29:12,440 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-08 14:29:12,440 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-08 14:29:18,183 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-08 14:29:18,321 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-06-08 14:29:18,321 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:29:18,365 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-08 14:29:18,365 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-08 14:29:18,950 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-08 14:29:18,950 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-08 14:29:27,039 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-08 14:29:27,039 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-08 14:29:33,361 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-08 14:29:33,550 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:29:33,550 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:29:33,617 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-06-08 14:29:33,617 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-08 14:29:34,181 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-08 14:29:34,181 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-08 14:29:41,622 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-08 14:29:41,622 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-08 14:29:46,648 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-08 14:29:46,867 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-06-08 14:29:46,867 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-08 14:29:46,931 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-06-08 14:29:46,931 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-08 14:29:47,562 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-08 14:29:47,570 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 13:41:21,887 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 13:41:21,887 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 13:41:26,353 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 13:41:26,482 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:41:26,482 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:41:26,525 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 13:41:26,525 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 13:41:28,224 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 13:41:31,851 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-06-09 13:41:31,851 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-06-09 13:41:33,055 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 13:41:38,751 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 13:41:38,751 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 13:41:41,946 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 13:41:42,064 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-06-09 13:41:42,064 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:41:42,120 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 13:41:42,120 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 13:41:42,647 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 13:41:42,650 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 13:41:44,047 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 13:41:49,939 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 13:41:49,939 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 13:41:53,355 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 13:41:53,477 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:41:53,477 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:41:53,527 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-06-09 13:41:53,527 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 13:41:54,773 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 13:41:54,776 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 13:41:55,746 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 13:42:01,271 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 13:42:01,271 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 13:42:04,575 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 13:42:04,673 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-06-09 13:42:04,673 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 13:42:04,720 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-06-09 13:42:04,720 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 13:42:05,958 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 13:42:05,958 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 13:42:06,834 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 13:42:45,624 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 13:42:45,624 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:40:55,443 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:40:55,443 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:40:58,071 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:40:58,071 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:40:58,353 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:40:58,353 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:40:59,741 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:40:59,987 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-06-09 22:40:59,987 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:00,062 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 22:41:00,062 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:41:00,938 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:41:00,942 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:41:01,498 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:41:01,640 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:01,640 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:01,713 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 22:41:01,713 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:41:02,120 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:41:02,283 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:02,283 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:02,406 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-06-09 22:41:02,406 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:41:03,054 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:41:03,058 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:41:04,020 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:41:04,712 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:41:04,827 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:41:07,658 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-06-09 22:41:07,658 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-06-09 22:41:08,598 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:41:14,348 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:41:14,348 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:41:16,718 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:41:16,816 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-06-09 22:41:16,816 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:41:16,846 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-06-09 22:41:16,846 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:41:17,373 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:41:17,375 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:41:18,111 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:46:05,396 : INFO : Test_Login : test_login002 : 26 : test login 02 is stared
+ 2023-06-09 22:46:05,396 : INFO : Test_Login : test_login002 : 27 : opening Browser
+ 2023-06-09 22:46:08,551 : INFO : Test_Login : test_login002 : 29 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:46:08,629 : INFO : Test_Login : test_login002 : 32 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:46:08,658 : INFO : Test_Login : test_login002 : 34 : Entering Password-->admin
+ 2023-06-09 22:46:10,115 : INFO : Test_Login : test_login002 : 36 : click on login Button
+ 2023-06-09 22:48:24,616 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-06-09 22:48:24,616 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-06-09 22:48:28,886 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:48:28,998 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:48:29,052 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-06-09 22:48:30,657 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-06-09 22:53:18,447 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:53:18,448 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:53:20,888 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:53:20,995 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:20,996 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:21,033 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 22:53:21,033 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:53:22,537 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:53:26,158 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-06-09 22:53:26,158 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-06-09 22:53:27,647 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:53:34,179 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:53:34,179 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:53:37,718 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:53:37,817 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-06-09 22:53:37,817 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:37,863 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-09 22:53:37,863 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:53:38,597 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:53:38,597 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:53:39,500 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:53:45,322 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:53:45,322 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:53:47,688 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:53:47,795 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:47,795 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:47,835 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-06-09 22:53:47,835 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:53:48,314 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:53:48,317 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:53:49,125 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:53:54,784 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-09 22:53:54,784 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-09 22:53:58,683 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:53:58,787 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-06-09 22:53:58,787 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:53:58,832 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-06-09 22:53:58,832 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-09 22:54:00,074 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-09 22:54:00,080 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-09 22:54:00,837 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-09 22:55:26,169 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-06-09 22:55:26,169 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-06-09 22:55:26,746 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:55:26,746 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:55:26,864 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:55:26,864 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:55:29,537 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:55:29,768 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:29,859 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-06-09 22:55:31,251 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:55:31,433 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com1
+ 2023-06-09 22:55:31,433 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:31,493 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-09 22:55:31,493 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:55:31,973 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:55:32,138 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:32,139 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:32,225 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-09 22:55:32,225 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:55:32,324 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:55:32,333 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:55:32,371 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-06-09 22:55:34,271 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:55:34,691 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:55:38,356 : INFO : Test_Login_Params : test_params04 : 46 : click on logout button
+ 2023-06-09 22:55:38,356 : INFO : Test_Login_Params : test_params04 : 47 : test param is passed
+ 2023-06-09 22:55:39,426 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:55:42,399 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:55:42,399 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:55:45,148 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:55:45,305 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:45,305 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:45,353 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1
+ 2023-06-09 22:55:45,353 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:55:45,938 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:55:45,941 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:55:46,123 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:55:46,123 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:55:47,308 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:55:49,981 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:55:50,088 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com2
+ 2023-06-09 22:55:50,088 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:55:50,126 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1231
+ 2023-06-09 22:55:50,126 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:55:50,615 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:55:50,619 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:55:51,557 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:58:23,764 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:58:23,764 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:58:26,349 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:58:26,349 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:58:31,263 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-06-09 22:58:31,263 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-06-09 22:58:32,391 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:58:32,638 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:32,638 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:32,786 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1
+ 2023-06-09 22:58:32,786 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:58:32,852 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:58:33,309 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:33,309 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:33,451 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-09 22:58:33,451 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:58:34,441 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:58:34,444 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:58:35,338 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:58:35,338 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:58:35,644 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:58:35,909 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:35,962 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-06-09 22:58:36,571 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:58:38,230 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-06-09 22:58:39,846 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:58:40,023 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com1
+ 2023-06-09 22:58:40,023 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:40,066 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-09 22:58:40,066 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:58:40,535 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:58:40,877 : INFO : Test_Login_Params : test_params04 : 46 : click on logout button
+ 2023-06-09 22:58:40,877 : INFO : Test_Login_Params : test_params04 : 47 : test param is passed
+ 2023-06-09 22:58:41,326 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:58:41,334 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:58:42,892 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:58:43,115 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 22:58:48,298 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-09 22:58:48,302 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-09 22:58:51,434 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 22:58:51,566 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com2
+ 2023-06-09 22:58:51,566 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-09 22:58:51,616 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1231
+ 2023-06-09 22:58:51,617 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-09 22:58:52,086 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-09 22:58:52,092 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-09 22:58:53,019 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-09 23:02:56,860 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-09 23:02:56,861 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-09 23:02:59,997 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:03:00,100 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:03:00,135 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-09 23:03:03,263 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-09 23:03:05,508 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-09 23:03:06,330 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-09 23:03:08,017 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-09 23:03:08,107 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-09 23:03:10,172 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-09 23:03:10,197 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-09 23:03:10,224 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-09 23:03:10,459 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-09 23:03:10,489 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-09 23:03:10,752 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-09 23:03:13,868 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-09 23:09:14,599 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-09 23:09:14,600 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-09 23:09:23,434 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:09:23,550 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:09:23,595 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-09 23:09:25,168 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-09 23:09:29,465 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-09 23:09:30,312 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-09 23:09:31,225 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-09 23:11:59,065 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-09 23:11:59,066 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-09 23:12:02,565 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:12:02,733 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:12:02,775 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-09 23:12:05,801 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-09 23:12:10,067 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-09 23:12:10,864 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-09 23:12:11,743 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-09 23:26:33,539 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-09 23:26:33,539 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-09 23:26:36,931 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:26:37,046 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:26:37,092 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-09 23:26:38,707 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-09 23:26:42,969 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-09 23:26:43,758 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-09 23:26:44,658 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-09 23:28:19,074 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-09 23:28:19,075 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-09 23:28:22,481 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:28:22,602 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:28:22,647 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-09 23:28:24,195 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-09 23:28:28,443 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-09 23:28:29,305 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-09 23:28:31,354 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-09 23:55:07,447 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-09 23:55:07,448 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-09 23:55:11,013 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:55:11,102 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:55:11,136 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-09 23:55:12,654 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-09 23:55:14,888 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-09 23:55:16,866 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-09 23:55:17,630 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-09 23:55:17,713 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-09 23:55:19,744 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-09 23:55:19,779 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-09 23:55:19,818 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-09 23:55:20,057 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-09 23:55:20,082 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-09 23:55:20,351 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-09 23:55:23,465 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-09 23:59:42,922 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-09 23:59:42,922 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-09 23:59:46,076 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-09 23:59:46,165 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-09 23:59:46,206 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-09 23:59:47,750 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-09 23:59:49,998 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-09 23:59:50,730 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-09 23:59:51,587 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-09 23:59:51,662 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-09 23:59:53,703 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-09 23:59:53,736 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-09 23:59:53,773 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-09 23:59:54,003 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-09 23:59:54,062 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-09 23:59:54,322 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-09 23:59:57,024 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-10 00:01:02,484 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-10 00:01:02,484 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-10 00:01:05,696 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:01:05,795 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:01:05,833 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-10 00:01:07,716 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-10 00:01:09,965 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-10 00:01:10,748 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-10 00:01:11,581 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-10 00:01:11,677 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-10 00:01:13,714 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-10 00:01:13,779 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-10 00:01:13,829 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-10 00:01:14,079 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-10 00:01:14,103 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-10 00:01:14,364 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-10 00:01:17,111 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-10 00:03:03,942 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-10 00:03:03,944 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-10 00:03:07,027 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:03:07,220 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:03:07,293 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-10 00:03:15,323 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-10 00:03:17,568 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-10 00:03:19,664 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-10 00:03:20,390 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-10 00:04:24,766 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-10 00:04:24,767 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-10 00:04:27,670 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:04:27,779 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:04:27,833 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-10 00:04:29,375 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-10 00:04:31,617 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-10 00:04:32,343 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-10 00:04:33,165 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-10 00:04:33,298 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-10 00:04:35,376 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-10 00:04:35,407 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-10 00:04:35,446 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-10 00:04:35,680 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-10 00:04:35,709 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-10 00:04:36,015 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-10 00:04:39,289 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-10 00:29:21,195 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:29:21,196 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:29:24,694 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:29:24,794 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:29:24,832 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:29:27,745 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:29:32,009 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:29:32,874 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:29:34,902 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 00:30:51,456 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:30:51,456 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:30:57,357 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:30:57,501 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:30:57,609 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:31:00,054 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:31:04,309 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:31:05,207 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:31:06,174 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 00:43:22,098 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:43:22,098 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:43:25,927 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:43:26,053 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:43:26,096 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:43:29,287 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:43:33,541 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:43:34,324 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:43:35,291 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 00:45:05,477 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:45:05,478 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:45:08,682 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:45:08,776 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:45:08,811 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:45:10,286 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:45:14,554 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:45:15,307 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:45:16,090 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 00:49:55,520 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:49:55,520 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:49:58,073 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:49:58,232 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:49:58,297 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:49:59,970 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:50:04,249 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:50:05,096 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:50:06,019 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 00:51:56,966 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 00:51:56,967 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 00:51:59,373 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 00:51:59,508 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 00:51:59,590 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 00:52:01,135 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 00:52:05,404 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 00:52:06,273 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 00:52:07,291 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 08:59:33,461 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 08:59:33,461 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 08:59:36,829 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 08:59:36,943 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 08:59:36,988 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 08:59:38,448 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 08:59:42,730 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 08:59:43,497 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 08:59:44,437 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 09:07:07,762 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:07:07,762 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:07:10,236 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:07:10,385 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:07:10,418 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 09:07:13,447 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 09:07:17,739 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 09:07:18,510 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 09:07:19,331 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 09:10:24,556 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:10:24,556 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:10:27,941 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:10:28,048 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:10:28,106 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 09:10:29,584 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 09:10:33,857 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 09:10:34,578 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 09:10:35,457 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 09:45:11,738 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:45:11,739 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:46:10,181 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:46:10,181 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:46:13,525 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:46:13,640 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:46:13,683 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 09:46:15,358 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 09:46:19,646 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 09:46:20,507 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 09:46:21,494 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 09:48:38,575 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-10 09:48:38,577 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-10 09:48:42,604 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:48:42,703 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:48:42,744 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-10 09:48:44,240 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-10 09:48:46,522 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-10 09:48:47,266 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-10 09:48:48,151 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-10 09:48:48,250 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-10 09:48:50,328 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-10 09:48:50,359 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-10 09:48:50,408 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-10 09:48:50,676 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-10 09:48:50,706 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-10 09:48:50,706 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-10 09:48:53,744 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-10 09:50:23,028 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:50:23,029 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:50:26,666 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:50:26,821 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:50:26,869 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 09:50:28,826 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 09:50:33,075 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 09:50:33,872 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 09:50:34,811 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 09:57:59,413 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 09:57:59,414 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 09:58:02,658 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 09:58:02,773 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 09:58:02,822 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 09:58:06,058 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 09:58:10,349 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 09:58:11,145 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 09:58:12,071 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:03:56,543 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:03:56,546 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:03:58,939 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:03:59,065 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:03:59,105 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:04:00,585 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:04:04,852 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:04:05,645 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:04:06,507 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:09:28,887 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:09:28,887 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:09:33,187 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:09:33,355 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:09:33,403 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:09:34,834 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:09:39,124 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:09:39,813 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:09:40,661 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:13:55,530 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:13:55,530 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:13:58,655 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:13:58,815 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:13:58,917 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:14:00,713 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:14:04,981 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:14:05,881 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:14:07,015 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:16:35,049 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:16:35,050 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:16:38,114 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:16:38,209 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:16:38,250 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:16:39,948 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:16:44,218 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:16:44,996 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:16:45,891 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:18:37,457 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:18:37,457 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:18:39,485 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:18:39,763 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:18:39,863 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:18:41,505 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:18:45,757 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:18:46,461 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:18:47,336 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:22:46,954 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:22:46,954 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:22:51,134 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:22:51,350 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:22:51,410 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:22:53,678 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:22:57,953 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:22:58,789 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:22:59,758 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:26:33,581 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:26:33,582 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:26:38,074 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:26:38,245 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:26:38,339 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:26:40,691 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:26:44,951 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:26:45,862 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:26:46,851 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 10:27:52,177 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 10:27:52,178 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 10:27:55,438 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 10:27:55,581 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 10:27:55,625 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 10:27:57,168 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 10:28:01,444 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 10:28:02,268 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 10:28:03,159 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 12:34:28,681 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 12:34:28,681 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 12:34:32,009 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 12:34:32,105 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 12:34:32,147 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 12:34:33,815 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 12:34:38,079 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 12:34:38,808 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 12:34:39,689 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 12:35:12,736 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 76 : test_login_ddt_006 is Passed
+ 2023-06-10 12:35:15,654 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 83 : test_login_ddt_006 is Completed
+ 2023-06-10 12:37:15,885 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 12:37:15,885 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 12:37:18,323 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 12:37:18,447 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 12:37:18,485 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 12:37:20,858 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 12:37:25,148 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 12:37:25,946 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 12:37:26,939 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 12:39:20,319 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 12:39:20,319 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 12:39:24,378 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 12:39:24,473 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 12:39:24,522 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 12:39:25,971 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 12:39:30,226 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 12:39:30,958 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 12:39:31,899 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 12:40:03,167 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-10 12:40:03,168 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-10 12:40:06,279 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-10 12:40:06,392 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-10 12:40:06,427 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-10 12:40:08,642 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-10 12:40:12,941 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-10 12:40:13,682 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-10 12:40:14,485 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-10 15:58:30,317 : INFO : Test_ADDEmp : test_addemp003 : 17 : test_addEMp_003 is started
+ 2023-06-10 15:58:30,318 : INFO : Test_ADDEmp : test_addemp003 : 19 : Opening Browser
+ 2023-06-10 15:58:33,429 : INFO : Test_ADDEmp : test_addemp003 : 21 : Going to Url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-10 15:58:34,940 : INFO : Test_ADDEmp : test_addemp003 : 24 : Enter_Username-->Admin
+ 2023-06-10 15:58:34,958 : INFO : Test_ADDEmp : test_addemp003 : 26 : Enter_Password-->admin123
+ 2023-06-10 15:58:43,322 : INFO : Test_ADDEmp : test_addemp003 : 28 : Click login
+ 2023-06-10 15:58:44,329 : INFO : Test_ADDEmp : test_addemp003 : 31 : CLick On PIM
+ 2023-06-10 15:58:45,595 : INFO : Test_ADDEmp : test_addemp003 : 33 : Click on Add
+ 2023-06-10 15:58:45,993 : INFO : Test_ADDEmp : test_addemp003 : 35 : Entering FIrstName
+ 2023-06-10 15:58:46,009 : INFO : Test_ADDEmp : test_addemp003 : 37 : Entering Middle name
+ 2023-06-10 15:58:46,040 : INFO : Test_ADDEmp : test_addemp003 : 39 : Entering LastName
+ 2023-06-10 15:58:48,289 : INFO : Test_ADDEmp : test_addemp003 : 41 : click save
+ 2023-06-10 15:58:48,588 : INFO : Test_ADDEmp : test_addemp003 : 45 : CLick on Menu Button
+ 2023-06-10 15:58:49,270 : INFO : Test_ADDEmp : test_addemp003 : 47 : CLick on Logout Button
+ 2023-06-10 15:58:49,270 : INFO : Test_ADDEmp : test_addemp003 : 49 : test_AddEmp_003 is passed
+ 2023-06-10 15:58:49,989 : INFO : Test_ADDEmp : test_addemp003 : 55 : test addemp is Completed
+ 2023-06-13 23:53:05,387 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-13 23:53:05,387 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-13 23:53:08,423 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-13 23:53:08,553 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-13 23:53:08,593 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-13 23:53:10,126 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-13 23:53:12,365 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-13 23:53:13,169 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-13 23:53:14,211 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-13 23:53:14,300 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-13 23:53:16,343 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-13 23:53:16,379 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-13 23:53:16,426 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-13 23:53:16,657 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-13 23:53:16,684 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-13 23:53:16,939 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-13 23:53:20,053 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-14 00:07:17,507 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-14 00:07:17,507 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-14 00:07:18,095 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-14 00:07:18,096 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-14 00:07:25,387 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:07:25,972 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:07:26,185 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-06-14 00:07:26,185 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-06-14 00:07:26,693 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-14 00:07:26,693 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-14 00:07:26,789 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-14 00:07:26,870 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-14 00:07:26,937 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-14 00:07:26,943 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-14 00:07:33,342 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:07:33,617 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:07:33,807 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-06-14 00:07:34,415 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-14 00:07:34,714 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-14 00:07:36,381 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:07:36,765 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:07:36,765 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:07:37,019 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-14 00:07:37,019 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-14 00:07:37,028 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-14 00:07:37,426 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-06-14 00:07:38,910 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-14 00:07:40,818 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-14 00:07:41,446 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-14 00:07:43,888 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-14 00:07:45,472 : INFO : Test_Login_Params : test_params04 : 46 : click on logout button
+ 2023-06-14 00:07:45,472 : INFO : Test_Login_Params : test_params04 : 47 : test param is passed
+ 2023-06-14 00:07:53,239 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-14 00:07:53,241 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-14 00:08:00,631 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:08:00,731 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-14 00:08:00,735 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-14 00:08:01,560 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:08:01,560 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:08:01,637 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1
+ 2023-06-14 00:08:01,637 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-14 00:08:04,877 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-14 00:08:04,877 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-14 00:08:06,985 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:08:07,378 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com1
+ 2023-06-14 00:08:07,380 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:08:07,596 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-14 00:08:07,597 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-14 00:08:08,542 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-14 00:08:08,545 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-14 00:08:15,359 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-14 00:08:20,631 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-14 00:08:20,889 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-14 00:08:31,662 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 80 : test_login_ddt_006 is Passed
+ 2023-06-14 00:08:37,812 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-14 00:08:37,812 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-14 00:08:41,049 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:08:41,160 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com2
+ 2023-06-14 00:08:41,160 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:08:41,204 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1231
+ 2023-06-14 00:08:41,204 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-14 00:08:41,683 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-14 00:08:41,687 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-14 00:08:42,724 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-14 00:19:03,379 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-14 00:19:03,380 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-14 00:19:07,300 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-14 00:19:07,301 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-14 00:19:07,915 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-14 00:19:07,915 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-14 00:19:09,421 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:19:09,838 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-14 00:19:09,932 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-14 00:19:12,409 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:19:12,705 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com1
+ 2023-06-14 00:19:12,705 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:19:12,814 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-14 00:19:12,814 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-14 00:19:14,489 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-14 00:19:14,493 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-14 00:19:15,329 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:19:15,641 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com2
+ 2023-06-14 00:19:15,641 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:19:15,690 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-14 00:19:15,778 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1231
+ 2023-06-14 00:19:15,788 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-14 00:19:17,139 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-14 00:19:17,139 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-14 00:19:21,205 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-14 00:19:21,281 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-14 00:19:21,351 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-14 00:19:22,375 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-14 00:19:24,461 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-14 00:19:33,826 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-14 00:19:33,826 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-14 00:19:38,084 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:19:38,327 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:19:38,329 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:19:38,425 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin1
+ 2023-06-14 00:19:38,425 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-14 00:19:39,783 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-14 00:19:39,790 : INFO : Test_Login_Params : test_params04 : 53 : test login is failed
+ 2023-06-14 00:19:48,729 : INFO : Test_Login : test_login002 : 26 : test login 02 is stared
+ 2023-06-14 00:19:48,729 : INFO : Test_Login : test_login002 : 27 : opening Browser
+ 2023-06-14 00:19:53,109 : INFO : Test_Login : test_login002 : 29 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:19:53,470 : INFO : Test_Login : test_login002 : 32 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:19:53,575 : INFO : Test_Login : test_login002 : 34 : Entering Password-->admin
+ 2023-06-14 00:19:59,140 : INFO : Test_Login : test_login002 : 36 : click on login Button
+ 2023-06-14 00:20:10,028 : INFO : Test_Customer : test_AddCust003 : 16 :  test 003 is staretd
+ 2023-06-14 00:20:10,036 : INFO : Test_Customer : test_AddCust003 : 17 : Opening Browser
+ 2023-06-14 00:20:14,254 : INFO : Test_Customer : test_AddCust003 : 19 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:20:14,771 : INFO : Test_Customer : test_AddCust003 : 22 : Enterting the Emailadmin@yourstore.com
+ 2023-06-14 00:20:15,075 : INFO : Test_Customer : test_AddCust003 : 24 : Entering the Passwordadmin
+ 2023-06-14 00:20:29,345 : INFO : Test_Customer : test_AddCust003 : 26 : click the login Button
+ 2023-06-14 00:20:31,906 : INFO : Test_Customer : test_AddCust003 : 29 : Click the Customer Buttion
+ 2023-06-14 00:20:33,986 : INFO : Test_Customer : test_AddCust003 : 32 : click inside button
+ 2023-06-14 00:20:36,026 : INFO : Test_Customer : test_AddCust003 : 35 : click new add
+ 2023-06-14 00:20:36,715 : INFO : Test_Customer : test_AddCust003 : 38 : click the new Email
+ 2023-06-14 00:20:38,924 : INFO : Test_Customer : test_AddCust003 : 40 : Click the new Password
+ 2023-06-14 00:20:38,977 : INFO : Test_Customer : test_AddCust003 : 43 : click the first name
+ 2023-06-14 00:20:39,060 : INFO : Test_Customer : test_AddCust003 : 45 : click the last name
+ 2023-06-14 00:20:39,770 : INFO : Test_Customer : test_AddCust003 : 47 : Enter the Gender
+ 2023-06-14 00:20:39,819 : INFO : Test_Customer : test_AddCust003 : 49 : Enter the DOB
+ 2023-06-14 00:20:40,424 : INFO : Test_Customer : test_AddCust003 : 51 : Click the Calender
+ 2023-06-14 00:20:44,893 : INFO : Test_Customer : test_AddCust003 : 54 : click the save
+ 2023-06-14 00:20:52,079 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-14 00:21:30,927 : INFO : Test_Login_Params : test_params04 : 27 : test login params 004 is started
+ 2023-06-14 00:21:30,930 : INFO : Test_Login_Params : test_params04 : 28 : opening browser
+ 2023-06-14 00:21:35,257 : INFO : Test_Login_Params : test_params04 : 30 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:21:35,570 : INFO : Test_Login_Params : test_params04 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:21:35,570 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-14 00:21:35,731 : INFO : Test_Login_Params : test_params04 : 36 : Entering password --->admin
+ 2023-06-14 00:21:35,731 : INFO : Test_Login_Params : test_params04 : 37 : Entering password -->admin
+ 2023-06-14 00:21:37,509 : INFO : Test_Login_Params : test_params04 : 39 : click on login button
+ 2023-06-14 00:21:41,286 : INFO : Test_Login_Params : test_params04 : 45 : click on logout button
+ 2023-06-14 00:21:41,288 : INFO : Test_Login_Params : test_params04 : 46 : test param is passed
+ 2023-06-14 00:21:42,784 : INFO : Test_Login_Params : test_params04 : 59 : test param is completed
+ 2023-06-14 00:24:50,422 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 23 :  test 003 is staretd
+ 2023-06-14 00:24:50,423 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 24 : Opening Browser
+ 2023-06-14 00:24:55,163 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 26 : GO to this Url-->https://admin-demo.nopcommerce.com/
+ 2023-06-14 00:24:55,481 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 29 : Enterting the Emailadmin@yourstore.com
+ 2023-06-14 00:24:55,542 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 31 : Entering the Passwordadmin
+ 2023-06-14 00:24:57,162 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 33 : click the login Button
+ 2023-06-14 00:25:01,436 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 40 : Click the Customer Buttion
+ 2023-06-14 00:25:02,457 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 43 : click inside button
+ 2023-06-14 00:25:03,339 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 46 : click new add
+ 2023-06-14 00:25:42,658 : INFO : Test_Customer_DDT : test_AddCust_ddt003 : 80 : test_login_ddt_006 is Passed
+ 2023-06-16 22:11:23,551 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-06-16 22:11:23,551 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-06-16 22:11:26,981 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-06-16 22:11:27,067 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-06-16 22:11:27,098 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-06-16 22:11:30,060 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-06-22 23:58:30,527 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-22 23:58:30,527 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-22 23:58:34,099 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-22 23:58:34,197 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:58:34,197 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:58:34,230 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-22 23:58:34,230 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-22 23:58:35,865 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-22 23:58:39,405 : INFO : Test_Login_Params : test_params04 : 46 : click on logout button
+ 2023-06-22 23:58:39,405 : INFO : Test_Login_Params : test_params04 : 47 : test param is passed
+ 2023-06-22 23:58:40,981 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-22 23:58:47,526 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-22 23:58:47,526 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-22 23:58:50,757 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-22 23:58:50,851 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com1
+ 2023-06-22 23:58:50,851 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:58:50,885 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin
+ 2023-06-22 23:58:50,885 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-22 23:58:51,331 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-22 23:58:51,333 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-22 23:58:52,504 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-22 23:58:58,271 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-22 23:58:58,271 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-22 23:59:01,388 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-22 23:59:01,466 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:59:01,466 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:59:01,502 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1
+ 2023-06-22 23:59:01,502 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-22 23:59:01,984 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-22 23:59:01,984 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-22 23:59:03,036 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-22 23:59:08,925 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-22 23:59:08,926 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-22 23:59:11,592 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-22 23:59:11,704 : INFO : Test_Login_Params : test_params04 : 34 : Entering Email-->admin@yourstore.com2
+ 2023-06-22 23:59:11,705 : INFO : Test_Login_Params : test_params04 : 35 : Entering Email-->admin@yourstore.com
+ 2023-06-22 23:59:11,747 : INFO : Test_Login_Params : test_params04 : 37 : Entering password --->admin1231
+ 2023-06-22 23:59:11,747 : INFO : Test_Login_Params : test_params04 : 38 : Entering password -->admin
+ 2023-06-22 23:59:12,199 : INFO : Test_Login_Params : test_params04 : 40 : click on login button
+ 2023-06-22 23:59:12,203 : INFO : Test_Login_Params : test_params04 : 54 : test login is failed
+ 2023-06-22 23:59:13,550 : INFO : Test_Login_Params : test_params04 : 60 : test param is completed
+ 2023-06-23 00:00:48,960 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-23 00:00:48,960 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-23 00:01:06,173 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-23 00:01:35,292 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-23 00:01:35,292 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-23 00:01:52,796 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-06-23 00:02:09,075 : INFO : Test_Login_Params : test_params04 : 28 : test login params 004 is started
+ 2023-06-23 00:02:09,076 : INFO : Test_Login_Params : test_params04 : 29 : opening browser
+ 2023-06-23 00:02:11,997 : INFO : Test_Login_Params : test_params04 : 31 : GO to this URL-->https://admin-demo.nopcommerce.com/
+ 2023-09-30 16:03:12,654 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 16:03:12,654 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 16:03:17,045 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 16:03:17,189 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 16:03:17,243 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 16:03:20,133 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-09-30 17:32:09,581 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 17:32:09,581 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 17:32:12,937 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 17:32:13,043 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 17:32:13,077 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 17:32:14,798 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-09-30 17:32:47,870 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 17:32:47,871 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 17:32:50,141 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 17:32:50,290 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 17:32:50,338 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 17:32:51,816 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-09-30 17:34:03,540 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 17:34:03,541 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 17:34:06,097 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 17:34:06,242 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 17:34:06,285 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 17:34:07,815 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-09-30 17:35:02,509 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 17:35:02,509 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 17:35:06,437 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 17:35:06,536 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 17:35:06,573 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 17:35:09,520 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-09-30 17:36:25,381 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-09-30 17:36:25,382 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-09-30 17:36:28,810 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-09-30 17:36:28,922 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-09-30 17:36:28,959 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-09-30 17:36:30,488 : INFO : Test_Login : test_login002 : 37 : click on login Button
+ 2023-10-06 11:29:07,510 : INFO : Test_Login : test_login002 : 27 : test login 02 is stared
+ 2023-10-06 11:29:07,510 : INFO : Test_Login : test_login002 : 28 : opening Browser
+ 2023-10-06 11:29:11,826 : INFO : Test_Login : test_login002 : 30 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-10-06 11:29:11,926 : INFO : Test_Login : test_login002 : 33 : Entering Email-->admin@yourstore.com
+ 2023-10-06 11:29:11,961 : INFO : Test_Login : test_login002 : 35 : Entering Password-->admin
+ 2023-10-06 11:29:14,981 : INFO : Test_Login : test_login002 : 37 : click on login Button

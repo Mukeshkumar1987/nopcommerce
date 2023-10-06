@@ -1,0 +1,16 @@
+ 2023-06-10 16:00:26,853 : INFO : Test_ADDEmp : test_addemp003 : 17 : test_addEMp_003 is started
+ 2023-06-10 16:00:26,853 : INFO : Test_ADDEmp : test_addemp003 : 19 : Opening Browser
+ 2023-06-10 16:00:35,014 : INFO : Test_ADDEmp : test_addemp003 : 21 : Going to Url-->https://opensource-demo.orangehrmlive.com
+ 2023-06-10 16:00:35,653 : INFO : Test_ADDEmp : test_addemp003 : 24 : Enter_Username-->Admin
+ 2023-06-10 16:00:35,666 : INFO : Test_ADDEmp : test_addemp003 : 26 : Enter_Password-->admin123
+ 2023-06-10 16:00:38,798 : INFO : Test_ADDEmp : test_addemp003 : 28 : Click login
+ 2023-06-10 16:00:39,909 : INFO : Test_ADDEmp : test_addemp003 : 31 : CLick On PIM
+ 2023-06-10 16:00:41,362 : INFO : Test_ADDEmp : test_addemp003 : 33 : Click on Add
+ 2023-06-10 16:00:41,774 : INFO : Test_ADDEmp : test_addemp003 : 35 : Entering FIrstName
+ 2023-06-10 16:00:41,796 : INFO : Test_ADDEmp : test_addemp003 : 37 : Entering Middle name
+ 2023-06-10 16:00:41,814 : INFO : Test_ADDEmp : test_addemp003 : 39 : Entering LastName
+ 2023-06-10 16:00:44,055 : INFO : Test_ADDEmp : test_addemp003 : 41 : click save
+ 2023-06-10 16:00:44,356 : INFO : Test_ADDEmp : test_addemp003 : 45 : CLick on Menu Button
+ 2023-06-10 16:00:45,037 : INFO : Test_ADDEmp : test_addemp003 : 47 : CLick on Logout Button
+ 2023-06-10 16:00:45,037 : INFO : Test_ADDEmp : test_addemp003 : 49 : test_AddEmp_003 is passed
+ 2023-06-10 16:00:45,943 : INFO : Test_ADDEmp : test_addemp003 : 55 : test addemp is Completed

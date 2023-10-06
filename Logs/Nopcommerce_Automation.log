@@ -1,0 +1,16 @@
+ 2023-05-28 00:53:05,420 : INFO : Test_Login : test_login : 26 : test login 02 is stared
+ 2023-05-28 00:53:05,420 : INFO : Test_Login : test_login : 27 : opening Browser
+ 2023-05-28 00:54:03,154 : INFO : Test_Login : test_login : 26 : test login 02 is stared
+ 2023-05-28 00:54:03,154 : INFO : Test_Login : test_login : 27 : opening Browser
+ 2023-05-28 00:54:07,958 : INFO : Test_Login : test_login : 29 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-05-28 00:54:08,099 : INFO : Test_Login : test_login : 32 : Entering Email-->admin@yourstore.com
+ 2023-05-28 00:54:08,141 : INFO : Test_Login : test_login : 34 : Entering Password-->admin
+ 2023-05-28 00:54:10,722 : INFO : Test_Login : test_login : 36 : click on login Button
+ 2023-05-28 00:55:38,162 : INFO : Test_Login : test_login002 : 26 : test login 02 is stared
+ 2023-05-28 00:55:38,162 : INFO : Test_Login : test_login002 : 27 : opening Browser
+ 2023-05-28 00:55:42,296 : INFO : Test_Login : test_login002 : 29 : GO to this Url -->https://admin-demo.nopcommerce.com/
+ 2023-05-28 00:55:42,390 : INFO : Test_Login : test_login002 : 32 : Entering Email-->admin@yourstore.com
+ 2023-05-28 00:55:42,426 : INFO : Test_Login : test_login002 : 34 : Entering Password-->admin
+ 2023-05-28 00:55:44,927 : INFO : Test_Login : test_login002 : 36 : click on login Button
+ 2023-05-28 01:26:04,100 : INFO : Test_Customer : test_addcust : 20 :  test 003 is staretd
+ 2023-05-28 01:26:04,100 : INFO : Test_Customer : test_addcust : 21 : Opening Browser
